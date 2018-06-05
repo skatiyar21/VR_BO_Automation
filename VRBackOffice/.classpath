@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/bcpkix-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/bcprov-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/client-combined-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/client-combined-3.9.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jasper-compiler-5.5.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jasper-compiler-jdt-5.5.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jasper-runtime-5.5.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jetty-continuation-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jetty-http-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jetty-jmx-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jetty-repacked-5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jetty-security-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jetty-server-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jetty-servlet-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jetty-servlets-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/jsp-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/mx4j-tools-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/selenium-server-standalone-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/skatiyar/dmi-workspace/VRBackOffice/JarFiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

@@ -1,0 +1,10 @@
+2018-03-07 17:46:59,598 - rootLogger - INFO - All Excel Files Initialised successfully.
+2018-03-07 17:46:59,604 - rootLogger - INFO - Param.properties file loaded successfully.
+2018-03-07 17:47:02,976 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2018-03-07 17:47:04,133 - rootLogger - INFO - WebBrowser is instantiated
+2018-03-07 17:47:12,945 - rootLogger - INFO - Email Id  Value Entered
+2018-03-07 17:47:13,156 - rootLogger - INFO - Password  Value Entered
+2018-03-07 17:47:13,215 - rootLogger - INFO - Clicked on Log In Element
+2018-03-07 17:47:18,361 - rootLogger - INFO - Clicked on CONTENT MANAGEMENT
+2018-03-07 17:47:18,453 - rootLogger - INFO - Clicked on PRODUCTS
+2018-03-07 17:47:21,627 - rootLogger - INFO - Clicked on Add Product
